@@ -6,3 +6,10 @@
 
  if we learn python its useful for artificial intrgilegence also so we could learn 
  python was 
+
+
+
+
+ java language is very secure compare with other languages 
+ python was not secure compare with java 
+ other languagers also not secure likewise java 
